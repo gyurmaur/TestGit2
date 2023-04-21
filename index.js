@@ -2,4 +2,4 @@
 
 var valami =5
 console.log(valami)
-var nokedli = 2
+var nokedli = -10
